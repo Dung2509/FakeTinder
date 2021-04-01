@@ -1,0 +1,15 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dung Nguyen",
+  "license": "ISC"
+}
